@@ -18,7 +18,6 @@
             cursor:pointer;
         }
     </style>
-    <script src="script.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <link rel="icon" href="https://vignette.wikia.nocookie.net/hover/images/d/dd/Facebook-icon.png/revision/latest/scale-to-width-down/480?cb=20161108221833">
 </head> 
